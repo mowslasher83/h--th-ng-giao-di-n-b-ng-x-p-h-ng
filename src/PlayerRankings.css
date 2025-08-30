@@ -1,0 +1,13 @@
+.player-rankings {
+  font-family: Arial, sans-serif;
+}
+
+.player-rankings ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.player-rankings li {
+  padding: 8px;
+  border-bottom: 1px solid #ddd;
+}
